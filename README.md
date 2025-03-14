@@ -19,7 +19,7 @@ Soy un especialista en TI con más de **7 años de experiencia** en **administra
 ---
 
 ## 💼 Experiencia Profesional Destacada
-- ** Responsable IT | Nuter Aeronautics**
+- **Responsable IT | Nuter Aeronautics**
   🔹 Inicio mi trabajo el 01/04/2025
 
 - **Especialista IT | Hiberus (España)**  
