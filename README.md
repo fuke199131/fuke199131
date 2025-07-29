@@ -2,7 +2,17 @@
 
 ## 🚀 Especialista en TI y Analista de Ciberseguridad
 
-Soy un especialista en TI con más de **7 años de experiencia** en **administración de sistemas, ciberseguridad y gestión de infraestructuras tecnológicas críticas**. He trabajado en empresas líderes como **Hiberus, Entelgy-Ibai y Kyndryl**, gestionando incidentes críticos y protegiendo infraestructuras tecnológicas con un enfoque proactivo en **seguridad informática y optimización de procesos**.
+ Profesional del sector IT con amplia experiencia en administración de 
+sistemas, ciberseguridad y soporte técnico. Ha trabajado en entornos 
+corporativos tanto en España como en Japón, gestionando 
+infraestructuras complejas, protegiendo redes y resolviendo incidentes 
+críticos con eficiencia.
+ Cuenta con formación en gestión de proyectos y metodologías ágiles 
+Scrum), habiendo desempeñado funciones de coordinación técnica y 
+facilitación de equipos multidisciplinares.
+ Apasionado por la automatización, la seguridad informática y los 
+entornos de alta disponibilidad, busca nuevos retos donde aportar su 
+visión técnica y su capacidad de gestión.
 
 📍 Abierto a oportunidades a nivel internacional.
 
@@ -10,6 +20,7 @@ Soy un especialista en TI con más de **7 años de experiencia** en **administra
 
 ## 🔥 Áreas de Especialización
 
+- ✅ **Desarrollo FullStack**
 - ✅ **Ciberseguridad & Análisis Forense Digital**
 - ✅ **Administración avanzada de sistemas** (Windows, Linux, VMWare, Active Directory)
 - ✅ **Gestión de incidentes y respuesta a ataques**
@@ -38,12 +49,13 @@ Soy un especialista en TI con más de **7 años de experiencia** en **administra
 
 ## 🎓 Educación y Certificaciones
 
-- 🎓 **Actualmente Estudiando Máster Bootcamp Full Stack Development** | 4Geeks Academy
+- 🎓 **Bootcamp Full Stack Development** | 4Geeks Academy
+- 🎓 **Programación en Python** | Tokyo School
 - 🎓 **Grado Dual en ADE e Ingeniería Informática** | Universidad de Deusto  
 - 🎓 **Máster Bootcamp en Ciberseguridad** | TheBridge (**Pentesting, Ethical Hacking**)
 - 🎓 **Grado Superior en Administración de Sistemas Informáticos** | CIFP Ciudad Jardín
 - 🎓 **Grado Medio en Sistemas Microinformáticos y Redes** | CIFP Ciudad Jardín
-- 🏆 **Certificaciones:** ITIL V3, SAP/4HANA, OSINT, Análisis Forense Digital, TOEIC (C2)
+- 🏆 **Certificaciones:** ITIL V3, SAP/4HANA, OSINT, Análisis Forense Digital, TOEIC (C2), SCRUM Master, Project Management y PCAP (Python)
 
 ---
 
